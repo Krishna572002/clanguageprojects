@@ -1,4 +1,3 @@
-// Online C compiler to run C program online
 #include <stdio.h>
 // library that includes rand function to generate random number
 #include <stdlib.h>
